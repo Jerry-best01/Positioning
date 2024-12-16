@@ -44,7 +44,7 @@ li{
     display: grid;
     background-color: skyblue;
     grid-template-columns: 200px 400px 300px;
-    /* grid-template-rows: 1fr 1fr 1fr; */
+    grid-template-rows: 1fr 1fr 1fr;
     width: 900px;
     gap: 10px;
 }
